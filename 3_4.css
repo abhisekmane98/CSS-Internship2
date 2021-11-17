@@ -1,0 +1,15 @@
+body
+{
+	font-family:Verdana;
+	background-color: rgb(185, 179, 175);
+	color: #665544;
+	padding: 20px;
+}
+.note_2
+{
+	font-family: inherit;
+	background-color: #efefef;
+	color: green;
+	border: 1px solid red;
+	padding: inherit;
+}

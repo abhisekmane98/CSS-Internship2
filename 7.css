@@ -1,0 +1,20 @@
+body
+{
+	background-color: hsl(0,0%,78%);
+}
+#intro
+{
+	background-color: hsla(0, 100%, 100%, 0);
+}
+p._1
+{
+	background-color: hsl(0, 100%,100%,0.3);
+}
+p._2
+{
+	background-color: hsla(0, 100%, 100%, 0.6);
+}
+p._3
+{
+	background-color: hsla(0, 100%, 100%, 1);
+}

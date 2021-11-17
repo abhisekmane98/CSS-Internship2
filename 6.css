@@ -1,0 +1,18 @@
+h1
+{
+	background-color: rgb(110, 110, 110);
+	
+}
+#intro
+{
+	background-color: rgba(110, 110, 110, 1);
+}
+p._1
+{
+	background-color: rgba(110, 110, 110, 0.6);
+}
+p._2
+{
+	background-color: rgb(110, 110, 110);
+	opacity: 1;
+}

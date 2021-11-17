@@ -1,0 +1,16 @@
+body
+{
+	font-family:Verdana;
+	background-color: rgb(185, 179, 175);
+	color: #665544;
+}
+h1
+{
+	border: 1px solid #665544;
+}
+li>bold
+{
+
+	border: 1px solid #665544;
+}
+}
